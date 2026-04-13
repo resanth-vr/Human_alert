@@ -8,7 +8,7 @@ Features
 * Real-time human detection
 * Right-hand raise detection
 * Left-hand raise detection
-* Live webcam video processing
+* Live webcam video processing 
 * Fast and lightweight using YOLOv8n-pose model
 * Keypoint-based pose analysis
 
